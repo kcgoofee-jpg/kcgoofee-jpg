@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="goofee — tools for SillyTavern">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05060f"/>
+      <stop offset="0.55" stop-color="#0b0f24"/>
+      <stop offset="1" stop-color="#140a26"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#ff2bd6;#c08a55;#00f0ff" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#ff2bd6">
+        <animate attributeName="stop-color" values="#ff2bd6;#c08a55;#00f0ff;#ff2bd6" dur="9s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1d2a55" stroke-width="1" opacity="0.55"/>
+    </pattern>
+    <radialGradient id="glowA" cx="0.15" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.9" cy="0.9" r="0.6">
+      <stop offset="0" stop-color="#ff2bd6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="typeclip">
+      <rect x="0" y="150" height="50" width="0">
+        <animate attributeName="width" values="0;640;640;0" keyTimes="0;0.5;0.9;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#grid)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="40 40" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect width="1000" height="260" fill="url(#glowA)"/>
+  <rect width="1000" height="260" fill="url(#glowB)"/>
+
+  <!-- floating nodes -->
+  <g fill="#00f0ff" opacity="0.8">
+    <circle cx="760" cy="60" r="3"><animate attributeName="cy" values="60;48;60" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="840" cy="120" r="2"><animate attributeName="cy" values="120;134;120" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="920" cy="70" r="3"><animate attributeName="cy" values="70;58;70" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="190" r="2"><animate attributeName="cy" values="190;178;190" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g stroke="#00f0ff" stroke-width="1" opacity="0.35" fill="none">
+    <path d="M760 60 L840 120 L920 70"/>
+    <path d="M840 120 L880 190"/>
+  </g>
+
+  <!-- title -->
+  <text x="60" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="78" font-weight="700" fill="url(#neon)" filter="url(#blur)" opacity="0.7">goofee</text>
+  <text x="60" y="118" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="78" font-weight="700" fill="url(#neon)">goofee</text>
+
+  <!-- typing line -->
+  <g clip-path="url(#typeclip)">
+    <text x="60" y="184" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" fill="#d6e4ff">&gt; tools for SillyTavern<tspan fill="#c08a55">_</tspan></text>
+  </g>
+  <rect x="60" y="196" width="10" height="3" fill="#00f0ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1000" height="3" fill="#00f0ff" opacity="0.18">
+    <animate attributeName="y" values="-4;262" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- frame -->
+  <rect x="1" y="1" width="998" height="258" fill="none" stroke="url(#neon)" stroke-width="2" opacity="0.8"/>
+</svg>
