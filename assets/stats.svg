@@ -24,7 +24,7 @@
     <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">today</text>
   </g>
   <text x="40" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">TOP LANGUAGES · PUBLIC REPOS</text>
-  <g clip-path="url(#bar)"><rect x="40" y="168" width="451.5" height="12" fill="#00f0ff"/><rect x="491.482111925443" y="168" width="247.8" height="12" fill="#ff2bd6"/><rect x="739.2774425332245" y="168" width="108.1" height="12" fill="#c08a55"/><rect x="847.3431891168532" y="168" width="71.0" height="12" fill="#7b61ff"/><rect x="918.3382655772365" y="168" width="29.0" height="12" fill="#39ff88"/></g>
+  <g clip-path="url(#bar)"><rect x="40" y="168" width="451.6" height="12" fill="#00f0ff"/><rect x="491.6406281081776" y="168" width="247.5" height="12" fill="#ff2bd6"/><rect x="739.1202078596152" y="168" width="107.9" height="12" fill="#c08a55"/><rect x="847.0482526877607" y="168" width="70.9" height="12" fill="#7b61ff"/><rect x="917.9528643434458" y="168" width="29.4" height="12" fill="#39ff88"/></g>
   <g transform="translate(40,206)"><circle cx="5" cy="-4" r="5" fill="#00f0ff"/>
     <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">JavaScript <tspan fill="#6f7fb0">49.1%</tspan></text></g>
 <g transform="translate(224,206)"><circle cx="5" cy="-4" r="5" fill="#ff2bd6"/>
