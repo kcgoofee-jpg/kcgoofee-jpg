@@ -21,7 +21,7 @@
 <g transform="translate(715,44)">
     <rect width="205" height="84" rx="10" fill="#0b0f24" stroke="#7b61ff" stroke-opacity="0.55"/>
     <text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">LAST PUSH</text>
-    <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">today</text>
+    <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">1d ago</text>
   </g>
   <text x="40" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">TOP LANGUAGES · PUBLIC REPOS</text>
   <g clip-path="url(#bar)"><rect x="40" y="168" width="462.6" height="12" fill="#00f0ff"/><rect x="502.64688635153647" y="168" width="250.0" height="12" fill="#ff2bd6"/><rect x="752.6136272287888" y="168" width="101.2" height="12" fill="#c08a55"/><rect x="853.7833971801308" y="168" width="66.4" height="12" fill="#7b61ff"/><rect x="920.2056800876633" y="168" width="27.9" height="12" fill="#39ff88"/></g>
