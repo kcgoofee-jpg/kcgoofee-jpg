@@ -21,10 +21,10 @@
 <g transform="translate(715,44)">
     <rect width="205" height="84" rx="10" fill="#0b0f24" stroke="#7b61ff" stroke-opacity="0.55"/>
     <text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">LAST PUSH</text>
-    <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">today</text>
+    <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">1d ago</text>
   </g>
   <text x="40" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">TOP LANGUAGES · PUBLIC REPOS</text>
-  <g clip-path="url(#bar)"><rect x="40" y="168" width="468.0" height="12" fill="#00f0ff"/><rect x="507.9915693179614" y="168" width="248.2" height="12" fill="#ff2bd6"/><rect x="756.2151881617704" y="168" width="103.7" height="12" fill="#c08a55"/><rect x="859.8833579277219" y="168" width="66.2" height="12" fill="#7b61ff"/><rect x="926.0612723627663" y="168" width="21.9" height="12" fill="#39ff88"/></g>
+  <g clip-path="url(#bar)"><rect x="40" y="168" width="468.0" height="12" fill="#00f0ff"/><rect x="508.0263023712006" y="168" width="248.2" height="12" fill="#ff2bd6"/><rect x="756.2222602761609" y="168" width="103.7" height="12" fill="#c08a55"/><rect x="859.8788777211939" y="168" width="66.2" height="12" fill="#7b61ff"/><rect x="926.0494175830496" y="168" width="21.9" height="12" fill="#39ff88"/></g>
   <g transform="translate(40,206)"><circle cx="5" cy="-4" r="5" fill="#00f0ff"/>
     <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">JavaScript <tspan fill="#6f7fb0">50.9%</tspan></text></g>
 <g transform="translate(224,206)"><circle cx="5" cy="-4" r="5" fill="#ff2bd6"/>
