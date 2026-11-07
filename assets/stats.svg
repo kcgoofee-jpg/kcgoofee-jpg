@@ -6,7 +6,7 @@
   <g transform="translate(40,44)">
     <rect width="205" height="84" rx="10" fill="#0b0f24" stroke="#00f0ff" stroke-opacity="0.55"/>
     <text x="16" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">PUBLIC REPOS</text>
-    <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#00f0ff">6</text>
+    <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#00f0ff">7</text>
   </g>
 <g transform="translate(265,44)">
     <rect width="205" height="84" rx="10" fill="#0b0f24" stroke="#ff2bd6" stroke-opacity="0.55"/>
@@ -24,13 +24,13 @@
     <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">today</text>
   </g>
   <text x="40" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">TOP LANGUAGES · PUBLIC REPOS</text>
-  <g clip-path="url(#bar)"><rect x="40" y="168" width="482.4" height="12" fill="#00f0ff"/><rect x="522.4359863121448" y="168" width="297.4" height="12" fill="#ff2bd6"/><rect x="819.8694950316132" y="168" width="89.3" height="12" fill="#c08a55"/><rect x="909.2093460403853" y="168" width="20.6" height="12" fill="#7b61ff"/><rect x="929.7714535885797" y="168" width="17.6" height="12" fill="#39ff88"/></g>
+  <g clip-path="url(#bar)"><rect x="40" y="168" width="465.6" height="12" fill="#00f0ff"/><rect x="505.6473011363915" y="168" width="317.2" height="12" fill="#ff2bd6"/><rect x="822.8417989317065" y="168" width="86.4" height="12" fill="#c08a55"/><rect x="909.1973562264775" y="168" width="20.2" height="12" fill="#7b61ff"/><rect x="929.3865640756791" y="168" width="17.7" height="12" fill="#39ff88"/></g>
   <g transform="translate(40,206)"><circle cx="5" cy="-4" r="5" fill="#00f0ff"/>
-    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">Rust <tspan fill="#6f7fb0">52.4%</tspan></text></g>
+    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">Rust <tspan fill="#6f7fb0">50.6%</tspan></text></g>
 <g transform="translate(224,206)"><circle cx="5" cy="-4" r="5" fill="#ff2bd6"/>
-    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">JavaScript <tspan fill="#6f7fb0">32.3%</tspan></text></g>
+    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">JavaScript <tspan fill="#6f7fb0">34.5%</tspan></text></g>
 <g transform="translate(408,206)"><circle cx="5" cy="-4" r="5" fill="#c08a55"/>
-    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">TypeScript <tspan fill="#6f7fb0">9.7%</tspan></text></g>
+    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">TypeScript <tspan fill="#6f7fb0">9.4%</tspan></text></g>
 <g transform="translate(592,206)"><circle cx="5" cy="-4" r="5" fill="#7b61ff"/>
     <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">CSS <tspan fill="#6f7fb0">2.2%</tspan></text></g>
 <g transform="translate(776,206)"><circle cx="5" cy="-4" r="5" fill="#39ff88"/>
