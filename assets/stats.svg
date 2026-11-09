@@ -24,11 +24,11 @@
     <text x="16" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="30" font-weight="700" fill="#7b61ff">today</text>
   </g>
   <text x="40" y="154" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6f7fb0" letter-spacing="1.5">TOP LANGUAGES · PUBLIC REPOS</text>
-  <g clip-path="url(#bar)"><rect x="40" y="168" width="466.1" height="12" fill="#00f0ff"/><rect x="506.0638185370966" y="168" width="318.8" height="12" fill="#ff2bd6"/><rect x="824.8841392002678" y="168" width="86.2" height="12" fill="#c08a55"/><rect x="911.0402060098302" y="168" width="19.8" height="12" fill="#7b61ff"/><rect x="930.861107515918" y="168" width="16.9" height="12" fill="#39ff88"/></g>
+  <g clip-path="url(#bar)"><rect x="40" y="168" width="466.3" height="12" fill="#00f0ff"/><rect x="506.27633027363726" y="168" width="318.7" height="12" fill="#ff2bd6"/><rect x="824.9471392899923" y="168" width="86.1" height="12" fill="#c08a55"/><rect x="911.0631658368952" y="168" width="19.8" height="12" fill="#7b61ff"/><rect x="930.8747722779151" y="168" width="16.9" height="12" fill="#39ff88"/></g>
   <g transform="translate(40,206)"><circle cx="5" cy="-4" r="5" fill="#00f0ff"/>
     <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">Rust <tspan fill="#6f7fb0">50.7%</tspan></text></g>
 <g transform="translate(224,206)"><circle cx="5" cy="-4" r="5" fill="#ff2bd6"/>
-    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">JavaScript <tspan fill="#6f7fb0">34.7%</tspan></text></g>
+    <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">JavaScript <tspan fill="#6f7fb0">34.6%</tspan></text></g>
 <g transform="translate(408,206)"><circle cx="5" cy="-4" r="5" fill="#c08a55"/>
     <text x="16" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#d6e4ff">TypeScript <tspan fill="#6f7fb0">9.4%</tspan></text></g>
 <g transform="translate(592,206)"><circle cx="5" cy="-4" r="5" fill="#7b61ff"/>
